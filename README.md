@@ -2,8 +2,6 @@ Smash Custom Music Downloader
 -
 
 A application originally by RedStoneMatt written in <b>Java</b>. It aims to download music from http://www.smashcustommusic.com/ (link broken, site down) through the application by accessing the web archive https://archive.org/web/.
-<p>
-Heavily modified and recoded by me. Tried to make the application more accessable for users through a running command line interface. Also tried to make the program more accessable for programers. I made this fork as a little fun project.
 
 How to use it?
 -
